@@ -1,5 +1,6 @@
 <?php
 
-echo 111;  die;
+echo 9999;
+echo 3333;  die;
 
 ?>
